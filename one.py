@@ -1,1 +1,1 @@
-print("one")
+print("one 1 ")
