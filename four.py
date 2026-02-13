@@ -1,1 +1,1 @@
-print("four")
+print("four:4")
